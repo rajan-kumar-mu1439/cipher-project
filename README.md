@@ -2,10 +2,10 @@
 
 This project demonstrates the implementation of three fundamental encryption techniques used in classical cryptography:
 
-**i.Caesar Cipher**
+**i. Caesar Cipher**
 
-**ii.Substitution Cipher**
+**ii. Substitution Cipher**
 
-**iii.Vigenère Cipher**
+**iii. Vigenère Cipher**
 
 These algorithms are implemented in Python to help understand the basics of encryption and decryption processes.
